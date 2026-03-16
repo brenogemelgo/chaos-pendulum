@@ -4,7 +4,7 @@ This project contains a MATLAB script that simulates the motion of a **double pe
 
 ## Structure
 
-- `pendulum.m`: the only file in the project. It contains the full simulation logic, animation, and plotting routines.
+- `chaos_pendulum.m`: the only script file in the project. It contains the full simulation logic, animation, and plotting routines.
 
 ## Requirements
 
